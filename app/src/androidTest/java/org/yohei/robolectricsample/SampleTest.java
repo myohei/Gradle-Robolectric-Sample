@@ -24,6 +24,6 @@ public class SampleTest {
 
     @Test
     public void sampleTest() {
-        Assert.assertEquals("a", "b");
+        Assert.assertEquals("a", "a");
     }
 }

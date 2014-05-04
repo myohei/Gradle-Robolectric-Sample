@@ -27,6 +27,7 @@ dependencies {
     androidTestCompile 'junit:junit:4.10'
     androidTestCompile 'org.robolectric:robolectric:2.1.+'
     androidTestCompile 'com.squareup:fest-android:1.0.+'
+    androidTestCompile 'org.mockito:mockito-all:1.9.5'
 }
 
 
